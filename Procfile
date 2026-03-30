@@ -1,0 +1,1 @@
+web: gunicorn seller_portal_mvp.seller_portal_mvp.wsgi:application
